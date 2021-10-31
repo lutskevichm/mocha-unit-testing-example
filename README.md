@@ -1,7 +1,4 @@
-# Installation - updated for commit
-```
-npm install
-```
+# Installation - updated for commit 2
 
 # Run unit tests
 ```
