@@ -1,4 +1,4 @@
-# Installation - updated for commit 4
+# Installation 
 
 # Run unit tests
 ```
